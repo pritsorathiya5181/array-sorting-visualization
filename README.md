@@ -1,16 +1,25 @@
-# ArraySorting
+Array Visualization
+A simple flutter experiment explaining how to render an array as colorful bars as the array is sorted using various sorting algorithms. The project currently supports following sorting algorithms -
 
-A new Flutter project.
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Merge Sort
+Added more sorting algorithms by https://github.com/saileshbro/.
 
-## Getting Started
+Recursive Bubble Sort
+Heap Sort
+Shell Sort
+Comb Sort
+Pigeon Hole Sort
+Cycle Sort
+Coctail Sort
+Gnome Sort
+Stooge Sort
+Odd Even Sort
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+![A dmeo of the project](./demo.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
